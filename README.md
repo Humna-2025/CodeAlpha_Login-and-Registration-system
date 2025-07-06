@@ -204,3 +204,21 @@ Print an error message for invalid choices.
 
               return 0;
              }
+ OUTPUT
+ =
+             1. Register
+             2. Login
+             3. Exit
+             Enter choice: 1
+             Enter username: hafsa123
+             Enter password: 123
+             Registration successful!
+
+            1. Register
+            2. Login
+            3. Exit
+            Enter choice: 2
+            Enter username: hafsa123
+            Enter password: 123
+            Login successful! Welcome, hafsa123!
+    
