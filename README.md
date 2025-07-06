@@ -60,16 +60,23 @@ Print an error message for invalid choices.
 🧪 Features
 =
 ✅ Register new users
+
 ✅ Prevent duplicate usernames
+
 ✅ Prevent empty usernames/passwords
+
 ✅ Login with verification
+
 ✅ User-friendly menu-driven interface
 
 🔷 Limitations / Notes
 =
 ⚠ Passwords are stored in plain text — not secure.
+
 ⚠ No validation for special characters or password strength.
+
 ⚠ No support for deleting/updating users.
+
 ⚠ Not thread-safe (since it just appends and reads from the file).
 
 
